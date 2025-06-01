@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karob\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|c:\\users\\karob\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|c:\\users\\karob\\source\\repos\\wpfapp2\\wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|c:\\users\\karob\\source\\repos\\wpfapp2\\wpfapp2\\zadaniemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\zadaniemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|c:\\users\\karob\\source\\repos\\wpfapp2\\wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|c:\\users\\karob\\source\\repos\\wpfapp2\\wpfapp2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{934CCFC6-77B2-4F1E-9189-CDC6C030D3AC}|WpfApp2\\WpfApp2.csproj|solutionrelative:wpfapp2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeDocumentMoniker": "WpfApp2\\App.config",
+              "ToolTip": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\App.config",
+              "RelativeToolTip": "WpfApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADNAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-01T20:11:04.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\packages.config",
+              "RelativeDocumentMoniker": "WpfApp2\\packages.config",
+              "ToolTip": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\packages.config",
+              "RelativeToolTip": "WpfApp2\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-01T20:10:39.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:01:51.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\MainWindow.xaml*",
+              "RelativeToolTip": "WpfApp2\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T20:01:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZADANIEModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\ZADANIEModel.edmx",
+              "RelativeDocumentMoniker": "WpfApp2\\ZADANIEModel.edmx",
+              "ToolTip": "C:\\Users\\karob\\source\\repos\\WpfApp2\\WpfApp2\\ZADANIEModel.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp2\\ZADANIEModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-01T20:16:21.233Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
